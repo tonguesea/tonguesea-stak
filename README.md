@@ -1,7 +1,7 @@
 ###### fireice-uk's and psychocrypt's
 # XMR-Stak - Monero/Aeon All-in-One Mining Software
 
-**XMR-Stak is ready for the POW change of Monero-v7, Aeon-v7 and Sumukoin-v3**
+**XMR-Stak is ready for the POW change of Monero-v7, Aeon-v7, stellite-v4 and Sumukoin-v3**
 
 XMR-Stak is a universal Stratum pool miner. This miner supports CPUs, AMD and NVIDIA gpus and can be used to mine the crypto currency Monero and Aeon.
 
@@ -48,7 +48,9 @@ Besides [Monero](https://getmonero.org), following coins can be mined using this
 - [Graft](https://www.graft.network)
 - [Haven](https://havenprotocol.com)
 - [Intense](https://intensecoin.com)
+- [IPBC](https://ipbc.io)
 - [Karbo](https://karbo.io)
+- [Masari](https://getmasari.org)
 - [Sumokoin](https://www.sumokoin.org)
 - [TurtleCoin](https://turtlecoin.lol)
 
